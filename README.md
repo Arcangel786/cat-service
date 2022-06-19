@@ -9,7 +9,7 @@ I have created a backend application that uses the cat API and returns:
 
 I have used Spring Boot and Java programming language to create the application
 
-This backend application can be used it by any frontend application that consumes JSON data. 
+This backend application can be used by any frontend application that consumes JSON data. 
 
 Screenshot of the json data for all breeds:
 
